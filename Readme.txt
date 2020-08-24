@@ -9,4 +9,4 @@ Readme =>
 ToUse
 #01.SQL > change sqlconnection
 	 > run migration "update-database"
-#02.DummyBookApi > set multiple startup projects or run it appart, (check de ports..)
+#02.DummyBookApi > set multiple startup projects or run it appart, (check the ports..)
